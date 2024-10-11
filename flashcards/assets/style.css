@@ -1,0 +1,11 @@
+body {
+      background-color:black;
+      color: white;
+}
+foorter{
+     background-color: blue;
+      color: green;
+      position: fixed;
+      bottom:0 ;
+      width: 100%;
+     }
