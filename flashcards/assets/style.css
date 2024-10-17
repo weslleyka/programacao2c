@@ -9,3 +9,13 @@ foorter{
       bottom:0 ;
       width: 100%;
      }
+footer{
+      background-color: black;
+      calor: white;
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      height: 2rem;
+ footer{ 
+      text-align: center;
+      font-top: 0.5rem
