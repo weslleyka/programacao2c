@@ -72,3 +72,9 @@ flex-basis: calc(33% - 6rem);
       background-color: aquamarine
       height; 100%;
 }
+.cartao_colnteudo h3 {
+ background-color: tomato;  
+ text-align: left;   
+ padding: 0.5rem;
+ 
+}
