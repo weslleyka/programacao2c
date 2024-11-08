@@ -1,6 +1,7 @@
 body {
       background: url('img/bg-desktop.webp');
       color: white;
+      font-family: BAi janjuree;
 }
 foorter{
      background-color: blue;
@@ -11,72 +12,32 @@ foorter{
      }
 footer{
       background-color:bisque;
-      calor: white;
+      color: white;
       position: fixed;
       bottom: 0;
       width: 100%;
       height: 2rem;
- footer{ 
       text-align: center;
-      font-top: 0.5rem
-      body {
-            background-color: bisque;
-            font-family: BAi janjuree;
       }
-      #container {
 
-      }Production
       #container {
+      display: flex;
       }
-      #container {
-            display: flex;
-      }
-      . cartao {
-            margin: 1rem 1rem;
-      }Production
-      <diclass="cartao conteudo respota">
-      <p> O que é javaScript?<
-      }
-      #container {
-            display: flex;
-      }Production
-      . cartao {
-            margin: 1rem 1rem;
-      }
-      <diclass="cartao conteudo respota">
-      <p> O que é javaScript?</p>
-      </div>
-      <div class="cartao conteudo resposta">
-      <p>O javaScript é uma lingagem de programção</p>
-      </div
-      </div>
-      . cartao {
-            margin: 1rem 1rem;
+
+.cartao {
+      margin: 1rem 1rem;
       background-color: aqua;
+      height: 20rm ;      
+      flex-grow: 1;
+      flex-basis: calc(33% - 6rem);
       }
-      . cartao {
-            margin: 1rem 1rem;
-      background-color: aqua;
-height: 20rm ;      
-flex-grow: 1;
-flex-basis: calc(33% - 6rem);
-.cartao_conteudo {
-      text-align: center;
-}
-.cartao_colnteudo {
-  text-align: center;  
-  background-color: aquamarine;  
-}
+
 .cartao_conteudo {
       text-align: center;
       background-color: aquamarine
-      height; 100%;
+      height: 100%;
 }
-.cartao_colnteudo h3 {
- background-color: tomato;  
- text-align: left;   
- padding: 0.5rem;
-}
+
 .cartao_colnteudo h3 {
       background-color: tomato;
       text-align: left ;
